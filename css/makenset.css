@@ -372,3 +372,16 @@ a.cuatom:active {
   color: #fff;
   letter-spacing: 1px;
 }
+.privacy-text {
+  font-family: 'Questrial', sans-serif;
+  font-size: 1.35em;
+}
+.privacy-page-background {
+  background: #eeeef2;
+  padding: 40px 10px 60px 10px;
+}
+.privacy-text-bold {
+  font-family: 'Questrial', sans-serif;
+  font-size: 1.75em;
+  font-weight: 700;
+}
