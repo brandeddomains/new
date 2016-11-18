@@ -385,3 +385,23 @@ a.cuatom:active {
   font-size: 1.75em;
   font-weight: 700;
 }
+.hero-background-template {
+  background: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.4)), url(../img/woman-entrepreneur-4.jpg) no-repeat center center;
+  width: 100%;
+  height: auto;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding-bottom: 200px;
+}
+.button-for-payment {
+  display: inline-block;
+  padding: 15px 25px;
+  font-family: 'Russo One', sans-serif;
+  font-size: 2em;
+  color: #fff;
+  background: #239B56;
+  border-radius: 2px;
+  text-transform: uppercase;
+}
